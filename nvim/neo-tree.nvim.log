@@ -1,0 +1,9 @@
+[ERROR gio 22 mag 2025, 19:56:43] ...hare/nvim/lazy/neo-tree.nvim/lua/neo-tree/utils/init.lua:833: Error opening file: vim/_editor.lua:0: nvim_exec2(), line 1: Vim(edit):E325: ATTENTION
+[ERROR ven 23 mag 2025, 08:43:15] ...hare/nvim/lazy/neo-tree.nvim/lua/neo-tree/utils/init.lua:833: Error opening file: vim/_editor.lua:0: nvim_exec2(), line 1: Vim(edit):E325: ATTENTION
+[INFO  lun 26 mag 2025, 09:54:05] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:260: Cut nvim to clipboard
+[INFO  mer 28 mag 2025, 22:04:54] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:113: No items, skipping git ignored/status lookups
+[INFO  mer 28 mag 2025, 22:04:58] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:113: No items, skipping git ignored/status lookups
+[INFO  mer 28 mag 2025, 22:05:00] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:113: No items, skipping git ignored/status lookups
+[INFO  mer 28 mag 2025, 22:05:02] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:113: No items, skipping git ignored/status lookups
+[INFO  mer 28 mag 2025, 22:05:24] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:113: No items, skipping git ignored/status lookups
+[INFO  mer 28 mag 2025, 22:05:39] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:113: No items, skipping git ignored/status lookups
